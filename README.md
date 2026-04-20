@@ -22,6 +22,7 @@ http://13.204.172.91/
 
 ## User 2 - EC2 Access Granted
 
-<img width="1919" height="970" alt="Screenshot 2026-04-20 112335" src="https://github.com/user-attachments/assets/37068000-79de-4721-90ae-d7920280a61a" />
+ <img width="1919" height="970" alt="Screenshot 2026-04-20 112335" src="https://github.com/user-attachments/assets/06109980-b6c4-43c1-99c0-d631b1f73d52" />
+
 
  
