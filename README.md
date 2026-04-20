@@ -1,12 +1,14 @@
+## Deployed Project Link 
+http://13.204.172.91/
 
-Main Account
+## EC2 Instance Screenshot (Main Account)
 <img width="1919" height="1079" alt="Screenshot 2026-04-20 122834" src="https://github.com/user-attachments/assets/c879d9f1-e800-4d04-b112-5e907a616c66" />
 
 
-1st user 
+## User 1 - No Permissions (Access Denied)
 
 <img width="1919" height="971" alt="Screenshot 2026-04-20 112248" src="https://github.com/user-attachments/assets/6ffe7dfc-64be-4ad8-9685-20232b1e25cf" />
 
 
-2nd user 
+## User 2 - EC2 Access Granted
 <img width="1919" height="970" alt="Screenshot 2026-04-20 112335" src="https://github.com/user-attachments/assets/37068000-79de-4725-90ae-d7920280a61a" />
